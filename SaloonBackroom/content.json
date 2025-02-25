@@ -43,6 +43,7 @@
                         "category_minerals",
                         "category_gem",
                         "category_metal_resources",
+                        "category_sell_at_pierres",
                         "category_sell_at_pierres_and_marnies",
                         "category_milk",
                         "category_egg",
@@ -127,78 +128,6 @@
                             "AvailableStockLimit": "Global",
                             "IgnoreShopPriceModifiers": true,
                             "Condition": "DATE_RANGE Spring 1 1 Spring 7 1"
-                        },
-                        {
-                            "Id": "Custom_HardwoodFence",
-                            "ItemId": "(O)298",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
-                        },
-                        {
-                            "Id": "Custom_IronFence",
-                            "ItemId": "(O)324",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
-                        },
-                        {
-                            "Id": "Custom_StoneFence",
-                            "ItemId": "(O)323",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
-                        },
-                        {
-                            "Id": "Custom_WoodFence",
-                            "ItemId": "(O)322",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
-                        },
-                        {
-                            "Id": "Custom_CobblestonePath",
-                            "ItemId": "(O)411",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
-                        },
-                        {
-                            "Id": "Custom_CrystalPath",
-                            "ItemId": "(O)409",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
-                        },
-                        {
-                            "Id": "Custom_GravelPath",
-                            "ItemId": "(O)407",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
-                        },
-                        {
-                            "Id": "Custom_SteppinStonePath",
-                            "ItemId": "(O)415",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
-                        },
-                        {
-                            "Id": "Custom_WoodPath",
-                            "ItemId": "(O)405",
-                            "Price": 1,
-                            "AvailableStock": 99,
-                            "IgnoreShopPriceModifiers": true,
-                            "AvailableStockLimit": "Player"
                         },
                         {
                             "Id": "Custom_SWateringCan",
@@ -2255,6 +2184,78 @@
                             "QualityModifierMode": "Stack",
                             "ModData": null,
                             "PerItemCondition": null
+                        },
+                        {
+                            "Id": "Custom_HardwoodFence",
+                            "ItemId": "(O)298",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
+                        },
+                        {
+                            "Id": "Custom_IronFence",
+                            "ItemId": "(O)324",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
+                        },
+                        {
+                            "Id": "Custom_StoneFence",
+                            "ItemId": "(O)323",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
+                        },
+                        {
+                            "Id": "Custom_WoodFence",
+                            "ItemId": "(O)322",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
+                        },
+                        {
+                            "Id": "Custom_CobblestonePath",
+                            "ItemId": "(O)411",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
+                        },
+                        {
+                            "Id": "Custom_CrystalPath",
+                            "ItemId": "(O)409",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
+                        },
+                        {
+                            "Id": "Custom_GravelPath",
+                            "ItemId": "(O)407",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
+                        },
+                        {
+                            "Id": "Custom_SteppinStonePath",
+                            "ItemId": "(O)415",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
+                        },
+                        {
+                            "Id": "Custom_WoodPath",
+                            "ItemId": "(O)405",
+                            "Price": 1,
+                            "AvailableStock": 99,
+                            "IgnoreShopPriceModifiers": true,
+                            "AvailableStockLimit": "Player"
                         }
                     ]
                 }

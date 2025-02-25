@@ -3,7 +3,7 @@
     "Author": "Joe Mama",
     "Version": "1.0.0",
     "Description": "Adds a backroom to the Saloon",
-    "UniqueID": "Minus.SaloonBackroom",
+    "UniqueID": "Minuense.SaloonBackroom",
     "UpdateKeys": [], 
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
