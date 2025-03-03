@@ -1,10 +1,13 @@
 # Minuense - SaloonBackroom
 
-This mod is for **Stardew Valley** and uses **Content Patcher** to load custom content without modifying the game files. This allows you to easily install, update, and uninstall the mod without affecting your game installation.
+This mod is for **Stardew Valley** and uses **Content Patcher** to load custom content without modifying the game files. The mod adds a backroom to the Saloon with an unlocked computer vendor, which sells high quality tools during week one year one, and cheaper items.
 
 ## Features
 
 - **New map section with a shop**: Adds a backroom to the Saloon with Gus's personal computer.
+![Saloon](/SaloonBackroom.png)
+![Store](/Store.png)
+
 - **Compatibility**: Works with other Content Patcher mods, but may not be compatible with mods that alter the same assets.
 
 ## Installation
