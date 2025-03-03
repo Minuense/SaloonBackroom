@@ -112,15 +112,6 @@
                             "Condition": "DATE_RANGE Spring 1 1 Spring 7 1"
                         },
                         {
-                            "Id": "Custom_STrash",
-                            "ItemId": "(T)SteelTrashCan",
-                            "Price": 10,
-                            "AvailableStock": 1,
-                            "AvailableStockLimit": "Global",
-                            "IgnoreShopPriceModifiers": true,
-                            "Condition": "DATE_RANGE Spring 1 1 Spring 7 1"
-                        },
-                        {
                             "Id": "Custom_SWateringCan",
                             "ItemId": "(T)SteelWateringCan",
                             "Price": 10,
@@ -130,13 +121,35 @@
                             "Condition": "DATE_RANGE Spring 1 1 Spring 7 1"
                         },
                         {
-                            "Id": "Custom_SWateringCan",
-                            "ItemId": "(T)SteelWateringCan",
-                            "Price": 10,
-                            "AvailableStock": 1,
-                            "AvailableStockLimit": "Global",
-                            "IgnoreShopPriceModifiers": true,
-                            "Condition": "DATE_RANGE Spring 1 1 Spring 7 1"
+                          "ActionsOnPurchase": null,
+                          "CustomFields": null,
+                          "TradeItemId": null,
+                          "TradeItemAmount": 1,
+                          "Price": 10,
+                          "ApplyProfitMargins": null,
+                          "AvailableStock": 1,
+                          "AvailableStockLimit": "Global",
+                          "PriceModifierMode": "Stack",
+                          "AvailableStockModifierMode": "Stack",
+                          "Id": "(T)FiberglassRod",
+                          "ItemId": "(T)FiberglassRod",
+                          "Condition": "DATE_RANGE Spring 1 1 Spring 7 1",
+                          "RandomItemId": null,
+                          "MaxItems": null,
+                          "MinStack": -1,
+                          "MaxStack": -1,
+                          "Quality": -1,
+                          "ObjectInternalName": null,
+                          "ObjectDisplayName": null,
+                          "ObjectColor": null,
+                          "ToolUpgradeLevel": -1,
+                          "IsRecipe": false,
+                          "StackModifiers": null,
+                          "StackModifierMode": "Stack",
+                          "QualityModifiers": null,
+                          "QualityModifierMode": "Stack",
+                          "ModData": null,
+                          "PerItemCondition": null
                         },
                         {
                             "ActionsOnPurchase": null,
