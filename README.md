@@ -5,7 +5,7 @@ This mod is for **Stardew Valley** and uses **Content Patcher** to load custom c
 ## Features
 
 - **New map section with a shop**: Adds a backroom to the Saloon with Gus's personal computer.
-![Saloon](/SaloonBackroom.png)
+![Saloon](/Saloon.png)
 ![Store](/Store.png)
 
 - **Compatibility**: Works with other Content Patcher mods, but may not be compatible with mods that alter the same assets.
